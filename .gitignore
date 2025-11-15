@@ -1,0 +1,6 @@
+.vscode
+ftenv
+BERT-finetuned-on-emotion
+DistilBERT-finetuned-on-emotion
+__pycache__
+results
